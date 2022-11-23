@@ -17,12 +17,16 @@
   </style>
 
   <link rel="stylesheet" href="style.css">
+
 </head>
 <body>
 
 <div class="card" role="main">
     
-  <img src="./images/image-product-desktop.jpg" class="image" alt="">
+  <picture>
+    <source media="(max-width:375px)" srcset="./images/image-product-mobile.jpg" alt="">
+    <img src="./images/image-product-desktop.jpg"  class="image" alt="">
+  </picture>
     <div class="content">
       <p class="title">PERFUME</p>
       <h1 class="name">Gabrielle Essence Eau De Parfum</h1>
