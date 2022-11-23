@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/carzy-zala/product-preview-card)
-- Live Site URL: [Add live site URL here](https://carzy-zala.github.io/product-preview-card)
+- Live Site URL: [Add live site URL here](https://carzy-zala.github.io/product-preview-card/)
 
 ## My process
 - whole process can you see from the commits of git
