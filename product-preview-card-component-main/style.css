@@ -20,10 +20,16 @@ body{
 }
 
 .card{
-    background-color: hsl(0,0%,100%);
-    padding: 10px;
+    background-color: hsl(0,0%,100%);   
     margin-bottom: 2rem;
     height: 35rem;
-    width:55rem;
+    width:50rem;
     border-radius: 13px;
+    display: flex;
+}
+
+.image{
+    height: 35rem;
+    border-top-left-radius: 1.3rem;
+    border-bottom-left-radius: 1.3rem;
 }
