@@ -1,0 +1,29 @@
+:root{
+   --btn-color :hsl(158, 36%, 37%);
+   --primary-color :hsl(30, 38%, 92%);
+   --heavy-font-color:hsl(212, 21%, 14%);
+   --light-font-color:hsl(228, 12%, 48%);
+
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    height: 97vh;
+    background-color: var(--primary-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    background-color: hsl(0,0%,100%);
+    padding: 10px;
+    margin-bottom: 2rem;
+    height: 35rem;
+    width:55rem;
+    border-radius: 13px;
+}
